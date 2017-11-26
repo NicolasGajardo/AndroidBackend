@@ -13,6 +13,6 @@ https://developer.android.com/training/volley/simple.html
 
 **Doctrine**
 Relación de entidades con Doctrine ORM
-https://api-platform.com/docs/distribution
+http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/reference/association-mapping.html
 
 
