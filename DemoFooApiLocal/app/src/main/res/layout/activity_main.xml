@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="inacaptemuco.cl.demofooapilocal.MainActivity">
+
+  <TextView
+      android:id="@+id/txv_titulo"
+      android:text="@string/titulo_app"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+    <EditText
+        android:hint="@string/hint_entrada"
+        android:id="@+id/edt_entrada_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="@string/boton_buscar"
+        android:id="@+id/btn_consultar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/txv_resultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+  <EditText
+      android:id="@+id/edt_nuevo_dato"
+      android:hint="@string/hint_nuevo_dato"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+<Button
+    android:id="@+id/btn_nuevo_dato"
+    android:text="@string/boton_nuevo_dato"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+</LinearLayout>

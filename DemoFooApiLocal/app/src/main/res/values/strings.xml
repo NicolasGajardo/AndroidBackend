@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoFooApiLocal</string>
+    <string name="titulo_app">App API</string>
+    <string name="hint_entrada">Ingrese ID</string>
+    <string name="boton_buscar">Buscar ID</string>
+    <string name="hint_nuevo_dato">Ingrese nuevo </string>
+    <string name="boton_nuevo_dato">Agregar</string>
+</resources>
