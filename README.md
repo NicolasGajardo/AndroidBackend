@@ -1,6 +1,9 @@
 # AndroidBackend
 Integración de App Android a api-platform
 
+# Instrucciones
+Requiere uso de emulador para conectarse a la IP de API.
+
 # Documentación:
 
 **api-platform**
